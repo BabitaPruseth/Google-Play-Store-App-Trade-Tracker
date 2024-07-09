@@ -1,0 +1,1 @@
+This repository contains a Tableau dashboard analyzing Google Play Store data. The dashboard provides insights into various aspects of apps available on the platform, including app categories, installs, reviews, ratings, and more.
